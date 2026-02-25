@@ -1,4 +1,6 @@
 https://meorange.github.io/PeriodicTable/index.html
+https://meorange.github.io/categories/index.html
+https://meorange.github.io/tags/index.html
 https://meorange.github.io/2026/02/20/hello-world/
 https://meorange.github.io/link/index.html
 https://meorange.github.io/
